@@ -30,7 +30,9 @@
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
-## LIVE SITE <a name="live"></a>
+## Live Site <a name="live"></a>
+
+[Go to site](https://lively-island-033a25510.azurestaticapps.net)
 
 ## 🧐 About <a name = "about"></a>
 
